@@ -152,6 +152,7 @@
 		"painting graffiti",
 		"patrolling Central Hub",
 		"paying debt",
+		"paying for cool aesthetics",
 		"performing a floor routine",
 		"performing standard operating procedures",
 		"placing a cortex bomb",
@@ -184,6 +185,7 @@
 		"riding in a Bosozuku",
 		"running away from a Oyabun",
 		"running away from Max-Tac",
+		"running away from responsibilities",
 		"scouting for intelligence data",
 		"scribbling a Nervewire blueprint",
 		"searching for a bakebrain",
@@ -197,6 +199,7 @@
 		"sleeping",
 		"slowly becoming Buck Rogers",
 		"solving PDE using numerical methods",
+		"spectating a fight",
 		"spectating a gutter punk",
 		"spectating Chrome-Bangers",
 		"spoofing a System Identification Number",
@@ -235,6 +238,7 @@
 		"tweaking some code",
 		"tumbling BTC",
 		"turning the system off and on to fix a technical error",
+		"tuning cyberware",
 		"tuning my cybereyeware",
 		"updating their OnlyFans account",
 		"updating their OS",
@@ -367,6 +371,7 @@
 		"Researcher",
 		"Retired Adventurer",
 		"Retired Hero",
+		"Retired Soldier"
 		"Robot",
 		"Sarariman",
 		"Scruffy Kid",
@@ -384,6 +389,7 @@
 		"Small-time Thug",
 		"Stray Nanobot",
 		"Street Artist",
+		"Stressed Student"
 		"Student",
 		"Technician",
 		"Tomboy",
@@ -422,6 +428,7 @@
 		"Bonjour",
 		"Check out these wares",
 		"Ciao",
+		"Do it"
 		"Don't shoot, I have a wife and child",
 		"G'day, mate",
 		"Good day ma'am",
@@ -457,6 +464,7 @@
 		"Howdy!",
 		"How goes it?",
 		"HOY!",
+		"Huh?"
 		"I come in peace",
 		"Konnichiwa",
 		"Ni hao",
@@ -485,6 +493,7 @@
 		"Yo",
 		"Yo, ese",
 		"You ok",
+		"You what?"
 		"You're not from around here",
 		"Zdravstvuyte",
 		"Aw Hell Nah, Wassup Dawg!?",
